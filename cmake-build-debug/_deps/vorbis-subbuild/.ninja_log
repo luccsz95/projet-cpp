@@ -1,0 +1,21 @@
+# ninja log v6
+2	52	7636491033945322	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	4fa4e643f38c1d7e
+2	52	7636491033945322	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	4fa4e643f38c1d7e
+53	4003	7636491073441863	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	3c1623e5ef972dd
+53	4003	7636491073441863	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	3c1623e5ef972dd
+4003	4172	7636491073502434	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	c19b722ecb44f072
+4003	4172	7636491073502434	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	c19b722ecb44f072
+4172	4259	7636491076004567	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	ec3a55785d7a830
+4172	4259	7636491076004567	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	ec3a55785d7a830
+4259	4313	7636491076541791	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	875415ef96271d87
+4259	4313	7636491076541791	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	875415ef96271d87
+4313	4376	7636491077184765	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	b3cb9cae0f8f21df
+4313	4376	7636491077184765	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	b3cb9cae0f8f21df
+4377	4439	7636491077788197	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	fbaeaf03aa0a6940
+4377	4439	7636491077788197	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	fbaeaf03aa0a6940
+4439	4512	7636491078514472	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	cfabff0bbfb05e95
+4439	4512	7636491078514472	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	cfabff0bbfb05e95
+4512	4594	7636491079345219	CMakeFiles/vorbis-populate-complete	97d75098342577aa
+4512	4594	7636491079345219	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	97d75098342577aa
+4512	4594	7636491079345219	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	97d75098342577aa
+4512	4594	7636491079345219	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	97d75098342577aa

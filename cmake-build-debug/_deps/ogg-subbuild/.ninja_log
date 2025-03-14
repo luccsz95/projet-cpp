@@ -1,0 +1,21 @@
+# ninja log v6
+2	58	7636490831336100	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	42664effb33dc088
+2	58	7636490831336100	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	42664effb33dc088
+58	2009	7636490850857610	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	25ea7a1b0888e70d
+58	2009	7636490850857610	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	25ea7a1b0888e70d
+2009	2148	7636490850912988	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	b72c72562a490e4e
+2009	2148	7636490850912988	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	b72c72562a490e4e
+2153	2218	7636490852956589	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	88b09fe280dad507
+2153	2218	7636490852956589	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	88b09fe280dad507
+2219	2266	7636490853425881	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	e3e8f7894d55d21
+2219	2266	7636490853425881	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	e3e8f7894d55d21
+2266	2313	7636490853901354	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	5819d5df75cdac0e
+2266	2313	7636490853901354	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	5819d5df75cdac0e
+2313	2362	7636490854390994	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	558e4559fdbb3025
+2313	2362	7636490854390994	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	558e4559fdbb3025
+2362	2412	7636490854873044	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	9e115eef7e2abe69
+2362	2412	7636490854873044	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	9e115eef7e2abe69
+2412	2480	7636490855564901	CMakeFiles/ogg-populate-complete	5a354b0addec0095
+2412	2480	7636490855564901	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	5a354b0addec0095
+2412	2480	7636490855564901	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	5a354b0addec0095
+2412	2480	7636490855564901	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	5a354b0addec0095

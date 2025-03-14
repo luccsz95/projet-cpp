@@ -1,0 +1,21 @@
+# ninja log v6
+3	65	7636490730840967	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	43a0fbb098b4c345
+3	65	7636490730840967	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	43a0fbb098b4c345
+65	9117	7636490821366825	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	e99917d47b6d96a0
+65	9117	7636490821366825	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	e99917d47b6d96a0
+9117	9252	7636490821416696	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	e4722e2b14625091
+9117	9252	7636490821416696	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	e4722e2b14625091
+9252	9318	7636490823382519	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	c338dae8bd620342
+9252	9318	7636490823382519	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	c338dae8bd620342
+9318	9369	7636490823865596	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	d57992b4e430ba8c
+9318	9369	7636490823865596	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	d57992b4e430ba8c
+9369	9420	7636490824399108	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	9a19bbdaa3c1193c
+9369	9420	7636490824399108	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	9a19bbdaa3c1193c
+9420	9469	7636490824875675	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	2f4e7317e5956cd9
+9420	9469	7636490824875675	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	2f4e7317e5956cd9
+9469	9517	7636490825366112	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	4e492b54151fbb2e
+9469	9517	7636490825366112	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	4e492b54151fbb2e
+9517	9584	7636490826032779	CMakeFiles/freetype-populate-complete	beca2848ceaa2245
+9517	9584	7636490826032779	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	beca2848ceaa2245
+9517	9584	7636490826032779	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	beca2848ceaa2245
+9517	9584	7636490826032779	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	beca2848ceaa2245

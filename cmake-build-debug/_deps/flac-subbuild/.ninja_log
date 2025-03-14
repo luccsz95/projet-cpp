@@ -1,0 +1,21 @@
+# ninja log v6
+2	73	7636490925246932	flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	f88bcfe29f129af8
+2	73	7636490925246932	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	f88bcfe29f129af8
+73	2879	7636490953289253	flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	12b0abd55d0aeee9
+73	2879	7636490953289253	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	12b0abd55d0aeee9
+2880	3091	7636490953381303	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	319cd51dae95a74f
+2880	3091	7636490953381303	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	319cd51dae95a74f
+3091	3192	7636490956442932	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	d442646562b75178
+3091	3192	7636490956442932	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	d442646562b75178
+3192	3251	7636490957040282	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	f17fddbb356c8af8
+3192	3251	7636490957040282	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	f17fddbb356c8af8
+3251	3308	7636490957611449	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	d2d6a550790d3fe9
+3251	3308	7636490957611449	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	d2d6a550790d3fe9
+3308	3361	7636490958145349	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	f3d62be086842478
+3308	3361	7636490958145349	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	f3d62be086842478
+3361	3410	7636490958641036	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	a611f80be5bed5d2
+3361	3410	7636490958641036	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	a611f80be5bed5d2
+3410	3513	7636490959651377	CMakeFiles/flac-populate-complete	5a5659d556e815a
+3410	3513	7636490959651377	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	5a5659d556e815a
+3410	3513	7636490959651377	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	5a5659d556e815a
+3410	3513	7636490959651377	C:/Users/lucas/Desktop/projet_cpp/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	5a5659d556e815a
